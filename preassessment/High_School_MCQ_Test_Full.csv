@@ -1,0 +1,51 @@
+Question Number,Subject,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,Mathematics,Solve for x: 2x + 3 = 15.,5,6,7,8,B
+2,Mathematics,What is the derivative of f(x) = 3x^2 - 2x + 5?,6x - 2,3x - 2,6x + 2,2x + 3,A
+3,Mathematics,Calculate the integral of x from 0 to 1.,1/2,1,1/3,2,A
+4,Mathematics,Solve the quadratic equation: x^2 - 5x + 6 = 0.,x = 2 or 3,x = -2 or -3,x = 1 or 6,x = 2 or 4,A
+5,Mathematics,What is the area of a circle with radius 7?,49*pi,14*pi,154,44*pi,A
+6,Mathematics,Simplify: (3x^2y)/x.,3xy,3x^2y,3xy^2,3y,A
+7,Mathematics,Evaluate 5^3.,15,25,125,75,C
+8,Mathematics,What is the sum of interior angles of a triangle?,90,180,270,360,B
+9,Mathematics,Find the volume of a cube with side 4.,64,16,48,32,A
+10,Mathematics,Compute log10(1000).,2,3,4,1,B
+11,Science,What is the chemical formula for salt?,NaCl,KCl,CaCl2,NaCO3,A
+12,Science,Who proposed relativity?,Newton,Galileo,Einstein,Bohr,C
+13,Science,Powerhouse of cell?,Nucleus,Ribosome,Mitochondria,ER,C
+14,Science,SI unit of force?,Newton,Joule,Watt,Pascal,A
+15,Science,Planet with most moons?,Earth,Mars,Jupiter,Saturn,D
+16,Science,pH of neutral solution?,0,7,14,5,B
+17,Science,Process by which plants lose water?,Respiration,Transpiration,Photosynthesis,Condensation,B
+18,Science,Atomic number of carbon?,7,8,6,2,C
+19,Science,Vitamin for blood clotting?,A,C,K,D,C
+20,Science,Covalent bond involves?,Ions,Electrons sharing,Electrons transfer,Nucleus fusion,B
+21,English,Correct punctuation?,Its raining.,It's raining.,Its' raining.,"Its raining, outside.",B
+22,English,Synonym for 'quick'?,Slow,Rapid,Lazy,Calm,B
+23,English,Adjective in 'Tall building collapsed'?,Tall,Building,Collapsed,The,A
+24,English,Plural of 'mouse'?,mouses,mice,mouse,meese,B
+25,English,Antonym of 'opaque'?,Transparent,Dark,Cloudy,Thick,A
+26,English,Verb form: 'She ____ every day.',go,goes,going,gone,B
+27,English,Preposition in: 'Book is on table'?,book,on,table,is,B
+28,English,Correct spelling?,Definitely,Definately,Definantly,Definetly,A
+29,English,'They've been friends ____ childhood.',since,for,during,from,A
+30,English,Passive voice sentence?,Chef cooks.,A meal is cooked.,Chef cooking.,Chef will cook.,B
+31,GK,Capital of Japan?,Beijing,Seoul,Tokyo,Bangkok,C
+32,GK,Author of '1984'?,Orwell,Huxley,Bradbury,Rowling,A
+33,GK,Largest country by area?,USA,Russia,China,Canada,B
+34,GK,Smallest country by area?,Monaco,Vatican,San Marino,Liechtenstein,B
+35,GK,Mona Lisa artist?,Michelangelo,da Vinci,van Gogh,Picasso,B
+36,GK,Year WW2 ended?,1943,1944,1945,1946,C
+37,GK,Gold symbol?,Au,Ag,Gd,Go,A
+38,GK,Father of Computers?,Turing,Gates,Babbage,Jobs,C
+39,GK,Morning Star?,Mars,Venus,Mercury,Jupiter,B
+40,GK,Largest desert?,Sahara,Arctic,Gobi,Antarctic,D
+41,Reasoning,"Next in series: 2, 4, 8, 16, __ ?",24,32,40,48,B
+42,Reasoning,"If 5x = 35, x = ?",5,6,7,8,C
+43,Reasoning,"Odd one out: Tomato, Cucumber, Carrot, Lettuce?",Tomato,Cucumber,Carrot,Lettuce,C
+44,Reasoning,"Next letter: A, D, G, J, __ ?",M,K,L,N,A
+45,Reasoning,100 invested at 10% annually 2 yrs?,110,121,120,115,B
+46,Reasoning,Prime number?,15,23,21,25,B
+47,Reasoning,"Missing: 3, 6, __, 18, 24?",12,15,17,18,B
+48,Reasoning,3 days after Tuesday?,Friday,Saturday,Sunday,Monday,A
+49,Reasoning,Most sides?,Triangle,Square,Pentagon,Hexagon,D
+50,Reasoning,Any number × 0 = ?,Number,0,1,Undefined,B

@@ -1,0 +1,11 @@
+question,option_A,option_B,option_C,option_D,correct
+** What is the definition of a data structure?,A way to organize and store data in a computer program.,A blueprint for how data will be stored and manipulated.,A method for efficiently performing complex operations on data.,A data structure that helps build reusable code modules.,A
+"** Which data structure is used to store a sequence of nodes, each containing a value and a reference to the next node?",Array,Linked List,Queue,Tree,D
+** Which data structure is an LIFO data structure that allows you to perform operations in the order they were submitted?,Array,Linked List,Queue,Tree,A
+** Which data structure is a FIFO data structure that allows you to perform operations in the order they were submitted?,Array,Linked List,Queue,Tree,C
+** Which data structure is used to represent a tree-like relationship between elements?,Array,Linked List,Queue,Tree,D
+** Which data structure is used to store nodes and relationships?,Array,Linked List,Queue,Tree,D
+** Which data structure is used to manage page navigation in a web browser?,Array,Linked List,Queue,Tree,D
+** Which data structure is used to store files and directories?,Array,Linked List,Queue,Tree,D
+** Which data structure is used to store friendships and connections between users?,Array,Linked List,Queue,Tree,D
+** Which data structure is used to organize a file system directory hierarchy?,Array,Linked List,Queue,Tree,D

@@ -1,0 +1,51 @@
+Subject,Question Number,Question,Option A,Option B,Option C,Option D,Answer Key
+Mathematics,1,What is 5 + 3?,A) 6,B) 7,C) 8,D) 9,C
+Mathematics,2,What is 10 - 4?,A) 5,B) 6,C) 4,D) 3,B
+Mathematics,3,How many sides does a square have?,A) 3,B) 4,C) 5,D) 6,B
+Mathematics,4,"If you have 2 apples and get 3 more, how many apples do you have?",A) 4,B) 5,C) 6,D) 3,B
+Mathematics,5,"What is the next number in this sequence: 2, 4, 6, __ ?",A) 7,B) 8,C) 9,D) 10,B
+Mathematics,6,Which shape has three sides?,A) Square,B) Triangle,C) Circle,D) Rectangle,B
+Mathematics,7,What is 4 × 3?,A) 6,B) 8,C) 12,D) 10,C
+Mathematics,8,What is half of 20?,A) 5,B) 10,C) 15,D) 20,B
+Mathematics,9,How many minutes are there in one hour?,A) 30,B) 60,C) 90,D) 120,B
+Mathematics,10,"If a clock shows 3:30, what time will it be in one hour?",A) 4:30,B) 5:00,C) 6:30,D) 3:00,A
+Science,11,What do plants need to grow?,A) Music,B) Water and sunlight,C) Toys,D) Sugar,B
+Science,12,What does a thermometer measure?,A) Speed,B) Temperature,C) Weight,D) Distance,B
+Science,13,Which part of a plant is found underground?,A) Leaves,B) Stem,C) Roots,D) Flowers,C
+Science,14,What is the color of the sky on a clear day?,A) Green,B) Blue,C) Yellow,D) Red,B
+Science,15,Which of these animals can fly?,A) Dog,B) Elephant,C) Bird,D) Fish,C
+Science,16,Which gas do we breathe in to stay alive?,A) Oxygen,B) Carbon Dioxide,C) Helium,D) Nitrogen,A
+Science,17,What do we call a baby frog?,A) Tadpole,B) Caterpillar,C) Puppy,D) Chick,A
+Science,18,Which sense do we use to smell things?,A) Touch,B) Taste,C) Smell,D) Sight,C
+Science,19,What happens to water when it is heated?,A) It turns into ice,B) It disappears,C) It turns into steam,D) It stays the same,C
+Science,20,Which animal lives in water?,A) Dog,B) Cat,C) Fish,D) Cow,C
+English,21,What is the opposite of 'hot'?,A) Warm,B) Cold,C) Dark,D) Happy,B
+English,22,What is the plural of 'cat'?,A) Cats,B) Cates,C) Cati,D) Cat,A
+English,23,Which word is a noun?,A) Jump,B) Run,C) Table,D) Quickly,C
+English,24,What do we call a baby dog?,A) Kitten,B) Puppy,C) Calf,D) Cub,B
+English,25,Which word is a verb?,A) Chair,B) Apple,C) Walk,D) Book,C
+English,26,Identify the adjective in the sentence: 'The red ball bounced.',A) Red,B) Ball,C) Bounced,D) The,A
+English,27,Which word is spelled correctly?,A) Frend,B) Friend,C) Freind,D) Frind,B
+English,28,What is the opposite of 'big'?,A) Tall,B) Small,C) Huge,D) Long,B
+English,29,Complete the sentence: 'I ___ a book.',A) Reads,B) Read,C) Reading,D) Red,B
+English,30,Which sentence is correct?,A) He go to school.,B) He goes to school.,C) He going to school.,D) He are going to school.,B
+General Knowledge,31,What is the capital of India?,A) Mumbai,B) Delhi,C) Kolkata,D) Chennai,B
+General Knowledge,32,Which continent is Egypt located in?,A) Africa,B) Asia,C) Europe,D) South America,A
+General Knowledge,33,What is the national animal of India?,A) Elephant,B) Lion,C) Tiger,D) Deer,C
+General Knowledge,34,How many days are there in a week?,A) 5,B) 6,C) 7,D) 8,C
+General Knowledge,35,What is the primary language spoken in the United States?,A) English,B) Spanish,C) French,D) German,A
+General Knowledge,36,What is the name of our planet?,A) Mars,B) Jupiter,C) Earth,D) Venus,C
+General Knowledge,37,Which season is known for falling leaves?,A) Winter,B) Spring,C) Summer,D) Autumn,D
+General Knowledge,38,What do we call a place where books are kept for public use?,A) Museum,B) Library,C) Mall,D) Park,B
+General Knowledge,39,Which musical instrument has keys?,A) Piano,B) Drum,C) Guitar,D) Flute,A
+General Knowledge,40,Which one is a primary color?,A) Green,B) Orange,C) Red,D) Purple,C
+Logical Reasoning,41,"What is the next number in this sequence: 1, 2, 3, 4, __ ?",A) 6,B) 8,C) 5,D) 10,C
+Logical Reasoning,42,Which shape is round?,A) Triangle,B) Square,C) Circle,D) Rectangle,C
+Logical Reasoning,43,Which item is different from the others?,A) Apple,B) Banana,C) Carrot,D) Mango,C
+Logical Reasoning,44,"If a clock shows 9:00, how many hours until noon?",A) 2,B) 3,C) 4,D) 5,B
+Logical Reasoning,45,"If a cat has 4 legs, how many legs do 3 cats have?",A) 8,B) 10,C) 12,D) 16,C
+Logical Reasoning,46,"Which number is missing in the sequence: 2, 4, __, 8, 10?",A) 5,B) 6,C) 7,D) 8,B
+Logical Reasoning,47,"Which object is out of place: pencil, pen, eraser, notebook?",A) Pencil,B) Pen,C) Eraser,D) Notebook,C
+Logical Reasoning,48,"What comes next in the sequence: Monday, Tuesday, ___, Thursday?",A) Wednesday,B) Friday,C) Saturday,D) Sunday,A
+Logical Reasoning,49,"If you have 10 candies and give away 3, how many candies are left?",A) 5,B) 6,C) 7,D) 8,C
+Logical Reasoning,50,Which one is the smallest number?,A) 0,B) 1,C) -1,D) 2,C

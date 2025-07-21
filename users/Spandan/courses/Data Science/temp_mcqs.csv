@@ -1,0 +1,11 @@
+question,option_A,option_B,option_C,option_D,correct
+** Which category of data is structured and easily readable?,Structured,Unstructured,Semistructured,Numerical,A
+** Which data format uses a simple key-value format for data?,JSON,XML,CSV,None of the above,A
+** Which data type represents non-numerical values?,Numerical,Categorical,Text,Date,A
+** Which data format is commonly used for storing and exchanging structured data?,CSV,JSON,XML,None of the above,A
+** Which data type involves representing data using key-value pairs?,Numerical,Categorical,Text,Date,A
+** Which data type represents data with a hierarchical structure?,Numerical,Categorical,Text,Date,B
+** Which data format is commonly used for storing and exchanging data in a human-readable format?,CSV,JSON,XML,None of the above,A
+** Which data preprocessing task involves handling missing or incomplete data?,Normalizing,Scaling,Transforming,None of the above,A
+** Which data preprocessing task involves transforming data from one format to another?,Normalizing,Scaling,Transforming,None of the above,C
+** Which data visualization technique is used to display relationships between two variables as points on a graph?,Scatter Plots,Bar Charts,Heatmaps,Line Charts,A

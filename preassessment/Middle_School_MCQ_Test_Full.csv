@@ -1,0 +1,51 @@
+Question Number,Section,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,Mathematics (Questions 1-10),What is 12 x 8?,84,96,100,104,B
+2,Mathematics (Questions 1-10),What is 56 ÷ 7?,6,7,8,9,C
+3,Mathematics (Questions 1-10),Solve: 2/3 + 1/4 = ?,11/12,5/7,10/12,7/12,A
+4,Mathematics (Questions 1-10),What is the area of a rectangle with length 10 and width 5?,15,30,50,100,C
+5,Mathematics (Questions 1-10),What is the value of 3^3?,9,12,27,81,C
+6,Mathematics (Questions 1-10),Solve for x: 3x + 5 = 20.,3,4,5,6,C
+7,Mathematics (Questions 1-10),What is the perimeter of a square with side length 7?,21,24,28,35,C
+8,Mathematics (Questions 1-10),Solve: 15 - 8 = ?,5,6,7,8,C
+9,Mathematics (Questions 1-10),Convert 0.5 to a fraction.,1/2,2/3,3/4,1/3,A
+10,Mathematics (Questions 1-10),What is 25% of 200?,25,50,75,100,B
+11,Science (Questions 11-20),What is the boiling point of water (in °C)?,50°C,75°C,100°C,150°C,C
+12,Science (Questions 11-20),Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B
+13,Science (Questions 11-20),What is the process by which plants make food?,Respiration,Photosynthesis,Digestion,Evaporation,B
+14,Science (Questions 11-20),Which gas do plants absorb from the atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,C
+15,Science (Questions 11-20),What is the center of an atom called?,Electron,Neutron,Proton,Nucleus,D
+16,Science (Questions 11-20),What force pulls objects toward the Earth?,Friction,Gravity,Magnetism,Inertia,B
+17,Science (Questions 11-20),What is the chemical symbol for water?,H2O,O2,CO2,NaCl,A
+18,Science (Questions 11-20),Which organ pumps blood through the body?,Brain,Lungs,Heart,Liver,C
+19,Science (Questions 11-20),What is the main gas found in the air we breathe?,Oxygen,Nitrogen,Carbon Dioxide,Helium,B
+20,Science (Questions 11-20),What is the Earth's natural satellite called?,Mars,Moon,Sun,Venus,B
+21,English Grammar & Vocabulary (Questions 21-30),Choose the correct synonym for 'happy'.,Sad,Joyful,Angry,Tired,B
+22,English Grammar & Vocabulary (Questions 21-30),Which word is an antonym of 'difficult'?,Hard,Easy,Complex,Challenging,B
+23,English Grammar & Vocabulary (Questions 21-30),Identify the noun in the sentence: 'The cat slept on the mat.',Cat,Slept,On,The,A
+24,English Grammar & Vocabulary (Questions 21-30),What is the plural form of 'child'?,Childs,Childes,Children,Childer,C
+25,English Grammar & Vocabulary (Questions 21-30),Which sentence is grammatically correct?,She don't like ice cream.,She doesn't like ice cream.,She not like ice cream.,She likes ice cream.,B
+26,English Grammar & Vocabulary (Questions 21-30),Which word is a verb in the sentence: 'They run every morning.',They,Run,Every,Morning,B
+27,English Grammar & Vocabulary (Questions 21-30),Choose the correct spelling.,Recieve,Receive,Recive,Receeve,B
+28,English Grammar & Vocabulary (Questions 21-30),What is the adjective in the sentence: 'The tall building is impressive.',Tall,Building,Is,Impressive,A
+29,English Grammar & Vocabulary (Questions 21-30),Complete the sentence: 'I ____ to the store yesterday.',Go,Went,Going,Goes,B
+30,English Grammar & Vocabulary (Questions 21-30),What is the antonym of 'ancient'?,Old,Modern,Historic,Antique,B
+31,General Knowledge (Questions 31-40),What is the capital of France?,Paris,London,Rome,Berlin,A
+32,General Knowledge (Questions 31-40),Who wrote 'Romeo and Juliet'?,William Shakespeare,Charles Dickens,Mark Twain,Jane Austen,A
+33,General Knowledge (Questions 31-40),What is the largest ocean on Earth?,Atlantic,Indian,Arctic,Pacific,D
+34,General Knowledge (Questions 31-40),In which continent is Brazil located?,Africa,Asia,South America,Europe,C
+35,General Knowledge (Questions 31-40),What is the tallest mountain in the world?,K2,Mount Everest,Kangchenjunga,Lhotse,B
+36,General Knowledge (Questions 31-40),Who was the first President of the United States?,Abraham Lincoln,George Washington,Thomas Jefferson,John Adams,B
+37,General Knowledge (Questions 31-40),Which instrument has 88 keys?,Violin,Piano,Guitar,Flute,B
+38,General Knowledge (Questions 31-40),What is the primary language spoken in Spain?,Spanish,French,English,German,A
+39,General Knowledge (Questions 31-40),Which country is famous for the Eiffel Tower?,Italy,Spain,France,Germany,C
+40,General Knowledge (Questions 31-40),How many colors are in a rainbow?,5,6,7,8,C
+41,Logical Reasoning (Questions 41-50),"What is the next number in the series: 3, 6, 12, 24, __ ?",30,36,48,60,C
+42,Logical Reasoning (Questions 41-50),"If a train travels 60 miles in 1.5 hours, what is its average speed?",40 mph,45 mph,50 mph,55 mph,A
+43,Logical Reasoning (Questions 41-50),Which one is the odd one out?,Apple,Banana,Carrot,Grape,C
+44,Logical Reasoning (Questions 41-50),"What comes next in the sequence: A, C, E, __ ?",F,G,H,I,B
+45,Logical Reasoning (Questions 41-50),"If you have 20 marbles and give 5 away, how many marbles remain?",10,15,16,17,B
+46,Logical Reasoning (Questions 41-50),Which of the following is a prime number?,15,17,21,25,B
+47,Logical Reasoning (Questions 41-50),"What is the missing number: 5, 10, __, 20, 25?",12,15,17,18,B
+48,Logical Reasoning (Questions 41-50),"If today is Tuesday, what day will it be in 3 days?",Friday,Saturday,Sunday,Monday,A
+49,Logical Reasoning (Questions 41-50),Which shape has the most sides?,Triangle,Square,Pentagon,Hexagon,D
+50,Logical Reasoning (Questions 41-50),"If you multiply a number by 0, what is the result?",The number,0,1,Undefined,B

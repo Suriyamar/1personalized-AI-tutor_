@@ -1,0 +1,364 @@
+{
+    "username": "Spandan",
+    "school_level": "High School",
+    "course_difficulty": "Intermediate",
+    "preassessment": {
+        "score": 40.0,
+        "correct_answers": 20,
+        "total_questions": 50,
+        "difficulty": "Intermediate",
+        "date": "2025-04-03 20:23:04",
+        "detailed_results": [
+            {
+                "question_number": 1,
+                "question_text": "Solve for x: 2x + 3 = 15.",
+                "user_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_number": 2,
+                "question_text": "What is the derivative of f(x) = 3x^2 - 2x + 5?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 3,
+                "question_text": "Calculate the integral of x from 0 to 1.",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 4,
+                "question_text": "Solve the quadratic equation: x^2 - 5x + 6 = 0.",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 5,
+                "question_text": "What is the area of a circle with radius 7?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 6,
+                "question_text": "Simplify: (3x^2y)/x.",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 7,
+                "question_text": "Evaluate 5^3.",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 8,
+                "question_text": "What is the sum of interior angles of a triangle?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 9,
+                "question_text": "Find the volume of a cube with side 4.",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 10,
+                "question_text": "Compute log10(1000).",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 11,
+                "question_text": "What is the chemical formula for salt?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 12,
+                "question_text": "Who proposed relativity?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 13,
+                "question_text": "Powerhouse of cell?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 14,
+                "question_text": "SI unit of force?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 15,
+                "question_text": "Planet with most moons?",
+                "user_answer": "A",
+                "correct_answer": "D",
+                "is_correct": false
+            },
+            {
+                "question_number": 16,
+                "question_text": "pH of neutral solution?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 17,
+                "question_text": "Process by which plants lose water?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 18,
+                "question_text": "Atomic number of carbon?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 19,
+                "question_text": "Vitamin for blood clotting?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 20,
+                "question_text": "Covalent bond involves?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 21,
+                "question_text": "Correct punctuation?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 22,
+                "question_text": "Synonym for 'quick'?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 23,
+                "question_text": "Adjective in 'Tall building collapsed'?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 24,
+                "question_text": "Plural of 'mouse'?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 25,
+                "question_text": "Antonym of 'opaque'?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 26,
+                "question_text": "Verb form: 'She ____ every day.'",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 27,
+                "question_text": "Preposition in: 'Book is on table'?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 28,
+                "question_text": "Correct spelling?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 29,
+                "question_text": "'They've been friends ____ childhood.'",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 30,
+                "question_text": "Passive voice sentence?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 31,
+                "question_text": "Capital of Japan?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 32,
+                "question_text": "Author of '1984'?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 33,
+                "question_text": "Largest country by area?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 34,
+                "question_text": "Smallest country by area?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 35,
+                "question_text": "Mona Lisa artist?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 36,
+                "question_text": "Year WW2 ended?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 37,
+                "question_text": "Gold symbol?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 38,
+                "question_text": "Father of Computers?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 39,
+                "question_text": "Morning Star?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 40,
+                "question_text": "Largest desert?",
+                "user_answer": "A",
+                "correct_answer": "D",
+                "is_correct": false
+            },
+            {
+                "question_number": 41,
+                "question_text": "Next in series: 2, 4, 8, 16, __ ?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 42,
+                "question_text": "If 5x = 35, x = ?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 43,
+                "question_text": "Odd one out: Tomato, Cucumber, Carrot, Lettuce?",
+                "user_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false
+            },
+            {
+                "question_number": 44,
+                "question_text": "Next letter: A, D, G, J, __ ?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 45,
+                "question_text": "100 invested at 10% annually 2 yrs?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 46,
+                "question_text": "Prime number?",
+                "user_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            },
+            {
+                "question_number": 47,
+                "question_text": "Missing: 3, 6, __, 18, 24?",
+                "user_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false
+            },
+            {
+                "question_number": 48,
+                "question_text": "3 days after Tuesday?",
+                "user_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true
+            },
+            {
+                "question_number": 49,
+                "question_text": "Most sides?",
+                "user_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true
+            },
+            {
+                "question_number": 50,
+                "question_text": "Any number \u00d7 0 = ?",
+                "user_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true
+            }
+        ]
+    }
+}

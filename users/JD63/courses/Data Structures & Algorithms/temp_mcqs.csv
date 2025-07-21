@@ -1,0 +1,11 @@
+question,option_A,option_B,option_C,option_D,correct
+** Which property of a data structure determines its time complexity?,Time Complexity,Space Complexity,Efficiency,Data Integrity,A
+** Which data structure is a collection of elements of the same data type stored in contiguous memory locations?,Arrays,Linked Lists,Stacks,Queues,A
+** Which property of a data structure is crucial for efficient storage and retrieval of data?,Time Complexity,Space Complexity,Efficiency,Data Integrity,C
+"** Which data structure follows the principle of Last In, First Out?",Arrays,Linked Lists,Stacks,Queues,D
+** Which data structure is used to manage user interactions and render web pages?,Arrays,Linked Lists,Stacks,Queues,C
+** Which property of a data structure determines its efficiency?,Time Complexity,Space Complexity,Efficiency,Data Integrity,C
+** Which data structure offers improved performance by reducing the number of operations required to perform a specific task?,Arrays,Linked Lists,Stacks,Queues,D
+** Which data structure is a hierarchical data structure where each node has a value and zero or more child nodes?,Arrays,Linked Lists,Stacks,Queues,D
+** Which data structure is used in database systems to store and manage large amounts of data?,Arrays,Linked Lists,Stacks,Queues,A
+** Which data structure is used in file systems to store and organize files on a disk?,Arrays,Linked Lists,Stacks,Queues,B
